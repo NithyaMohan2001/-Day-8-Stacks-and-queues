@@ -23,7 +23,7 @@ class Solution {
                 }
                 stack.push(currnum);
             }else{
-                operator=a[i];
+                operator=a[i]+1;
             }
                 
             }
